@@ -1,0 +1,51 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+
+.header {
+	background-color: #eebb44;
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+h1 {
+	font-size: 31px;
+	margin-left: -10px;
+}
+
+p {
+	margin-top: -15px;
+	margin-left: -10px;
+}
+
+.box {
+	font-size: 0;
+	margin-bottom: 20px;
+}
+
+.card-description {
+	padding: 10px;
+	border: 1px solid #E0E0E0;
+	font-size: 16px;
+}
+
+.card-description p {
+	margin-left: 10px;
+}
+
+.card-description p.name {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.card-description p.descrip {
+	ma
+}
+
+img {
+	width: 100%;
+	border: 1px solid #E0E0E0;
+}
